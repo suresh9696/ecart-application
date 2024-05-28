@@ -1,0 +1,60 @@
+
+.abouta,.vision,.growth{
+
+    display: flex;
+    gap: 50px;
+    background-color:blanchedalmond;
+    padding: 30px;
+   
+  
+}
+/* .oo{
+ height: 50vh;
+} */    
+p{
+    font-size: large;
+}
+
+/* .content-T{
+    width: 500px;
+    height: 50vh;
+}
+.img-T{
+    width: 500px;
+   
+/* .i{
+    padding: 20px;
+} */
+
+.half p{
+text-align: justify !important;
+}
+
+.img-T img{
+    width: 100% ;
+}
+
+.img-T{
+    width: 70% ;
+}
+
+
+.half {
+    width: 100%;
+    }
+
+
+@media (max-width : 800px){
+    .abouta,.vision,.growth{
+        display: block !important;
+    }
+
+    .img-T img{
+        width: 100% ;
+    }
+    
+    .img-T{
+        width: 100% ;
+    }
+    
+}

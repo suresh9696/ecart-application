@@ -1,0 +1,32 @@
+.kk{
+    position: fixed;
+    
+}
+.content{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    text-align: center;
+}
+.home{
+
+     font-size: 100px;
+    color: aliceblue; 
+    
+}
+.xx{
+    
+    color: rgb(223, 13, 13);
+    background-color: rgb(214, 241, 9);
+     /* padding: 10px; */
+     background-color: black;
+     border-radius: 15px;
+     border: none;
+     
+  
+}
+.xx:hover{
+    background-color: white;
+    transition-delay: 0.005;
+}

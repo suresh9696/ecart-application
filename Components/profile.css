@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+.main{
+  display: flex;
+  flex-wrap: wrap;
+gap: 120px;
+
+padding-left:-40px;
+}
+
+
+.imgg{
+    width: 350px;
+    height:400px;
+    
+    
+}
+button{
+    background-color: rgb(0, 250, 21);
+    font-size: 14px;
+    border-radius: 10px;
+    padding: 3px;
+}
+button:hover{
+    background-color: rgb(230, 13, 13);
+    transition-delay: 0.005;
+}
